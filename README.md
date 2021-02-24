@@ -5,3 +5,4 @@
 #so it would expect the file log4j2.xml file in resources folder by default
 
 #Using the following property we can change the file name as user defined
+logging.config=classpath:log4j-srini.xml
